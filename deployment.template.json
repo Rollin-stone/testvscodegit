@@ -11,8 +11,8 @@
             "loggingOptions": "",
             "registryCredentials": {
               "poclainregistry": {
-                "username": "$CONTAINER_REGISTRY_USERNAME_poclainregistry",
-                "password": "$CONTAINER_REGISTRY_PASSWORD_poclainregistry",
+                "username": "dddd",
+                "password": "ddd",
                 "address": "poclainregistry.azurecr.io"
               }
             }
