@@ -6,6 +6,10 @@
 		{
 			"name": "testvscodegit",
 			"path": "/Users/Pascal/Documents/IoT/Developpement/Test intégration GIT VSCODE/testvscodegit"
+		},
+		{
+			"name": "testvscodegit-1",
+			"path": "/Users/Pascal/Documents/IoT/Developpement/Test intégration GIT VSCODE/testvscodegit-1"
 		}
 	],
 	"settings": {}
